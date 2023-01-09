@@ -1,6 +1,5 @@
 number: '0123456789'
 lang_char: 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
-symbol: "!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~ €"
 experiment_name: 'en_filtered'
 train_data: 'all_data'
 valid_data: 'all_data/en_val'
